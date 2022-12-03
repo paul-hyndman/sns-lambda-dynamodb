@@ -1,6 +1,3 @@
-# sns-lambda-dynamodb
-Illustrates how to publish to SNS topic from Java REST API, with Dynamo updates from Python Lambda Topic listener
-
 # Project highlights how, using CDK, the following:
 #   - Create AWS infrastructure using Python and CDK
 #   - Expose an EC2-based public REST API via a non-standard HTTP port
@@ -12,6 +9,7 @@ Illustrates how to publish to SNS topic from Java REST API, with Dynamo updates 
 #  - VPC
 #  - EC2
 #  - SNS Topic
+#  - DynamoDB table
 #  - Python Lambda function
 #  - A sample Java-based REST API
 
