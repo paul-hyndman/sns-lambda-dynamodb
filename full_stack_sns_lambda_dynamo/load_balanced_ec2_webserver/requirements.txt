@@ -1,0 +1,14 @@
+aws-cdk.core
+aws-cdk.aws_s3
+aws-cdk.aws_ec2
+aws-cdk.aws_iam
+aws-cdk.aws_autoscaling
+aws-cdk.aws_elasticloadbalancingv2
+aws-cdk.aws_s3_notifications
+aws-cdk.cloudformation_include
+aws_cdk.aws_sns
+aws_cdk.aws_sns_subscriptions
+aws_cdk.aws_lambda
+aws_cdk.aws_logs
+aws_cdk.aws_dynamodb
+boto3

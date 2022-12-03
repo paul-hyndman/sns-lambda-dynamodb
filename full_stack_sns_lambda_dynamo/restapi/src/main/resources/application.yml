@@ -1,0 +1,7 @@
+server:
+  port : 1025
+
+topic_arn : "arn:aws:sns:us-east-1:991417388566:newOrderTopic"
+access_key : << your access key >>
+secret_access_key : << your secret >>
+aws_region : us-east-1
